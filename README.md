@@ -1,6 +1,10 @@
 # 更新日志
 theme: minima
 
+# 2023-1-8 21:25
+由于无法访问Github故删除
+修复虚拟机站title
+
 # 2023-1-8 21:21
 添加Github Online
 修复b站title
